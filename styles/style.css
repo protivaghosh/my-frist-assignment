@@ -57,7 +57,7 @@ body{
 
 }
 .table-title-container{
-    border: 2px solid green;
+   /* border: 2px solid green;*/
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -90,7 +90,7 @@ body{
 
 }
 .text-section{
-    border: 2px solid green;*/
+   /* border: 2px solid green;*/
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -129,7 +129,7 @@ body{
 .image-img-container{
 width: 350px;
 height:150px;
-border: 2px solid blue;
+/*border: 2px solid blue;*/
 }
 .first-img{
     display: flex;
