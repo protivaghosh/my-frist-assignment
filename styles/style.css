@@ -45,13 +45,98 @@ body{
     color: rgb(255, 255, 255);
     border-radius: 8px;
 
-background: rgb(13, 19, 33);
-margin-right: 60px;
+    background: rgb(13, 19, 33);
+     margin-right: 60px;
 }
+.table-section-container{
+    width: 80%;
+    height: 965px;
+    margin: 0 auto;
+    border: 2px solid green;
+    margin-top: 100px;
 
+}
+.table-title-container{
+    border: 2px solid green;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin: 0 auto;
+}
+.table-text-container{
+    width: 90%;
+    height: 30%px;
+    margin: 0 auto;
+    border: 2px solid red;
+    
+}
+#table-image{
+    margin-left: 650px;
+}
+#table-text{
+   
+    margin-top: 40px;
+    margin-left: 100px;
+    text-align: justify;
+}
+.video-section-container{
+    width: 1140px;
+    height: 614px;
+    margin: 0 auto;
+    margin-top: 35px;
+    border:2px solid red;*/
 
+}
+.text-section{
+    border: 2px solid green;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin: 0 auto; 
+    text-align: center;
+    
+}
+#youtube video{
+   margin-top: 40px;
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: flex-start;
+   padding: 32px;
+   border: 1px solid rgba(13, 19, 33, 0.2);
+   box-sizing: border-box;
+  
+}
+.image-section-container{
+    width:100%;
+    height: 550px;
+    margin: 0 auto;
+    border: 2px solid red;
+    margin-top: 130px;
+
+}
+.image-text-container{
+    height: 100px;
+    border: 2px solid green;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.image-img-container{
+width: 350px;
+height:150px;
+border: 2px solid blue;
+}
+.first-img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
    
 
-
-
- 
+background: rgba(255, 76, 30, 0.05); 
+}
